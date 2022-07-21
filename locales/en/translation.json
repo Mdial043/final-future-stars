@@ -1,0 +1,68 @@
+{
+    "Home": {
+        "1": "Home" ,
+        "2": "AT FUTURE STARS, WE ARE A FAMILY, WITH THE YEARS OF EXPERIENCE WE HAVE, WE ORDER THE BEST IN ORDER TO MAKE THE BEST",
+        "3": "OUR GAME <br > BASKETBALL BRINGS JOY, WE ARE HERE TO POLISH THE TALENT THAT YOU ALREADY HAVE, CHECK OUR CLASSES TO FIND WHICH ONE OF OUR PROGRAMS SUIT YOU THE BEST <br />",
+        "4": "YOU CAN BOOK A GYM SESSION AND HAVE FUN WITH YOUR TEAMATES AND FRIENDS FROM THE CLUB AT ANYTIME",
+        "5": "Any question ? There is an available FAQ",
+        "6" : "Register",
+        "7" : "BOOK A GYM SESSION",
+        "8": "FAQ"
+    },
+    "BOOK": {
+        "1": "BOOK A GYM SESSION",
+        "2": "Select location",
+        "3": "Availbility",
+        "4": "Name",
+        "5": "Mail Adress",
+        "6": "BOOK"
+
+    },
+
+    "Register": {
+        "1": "REGISTER TO CAMP CLASSNAME",
+        "2": "Days Camp(Summer camps)",
+        "3": "Overnight Camp",
+        "4": "Weekly Lessons",
+        "5": "Private session",
+        "6": "Strength & conditionning",
+        "7": "D-league",
+        "8": "Team training",
+        "9": "Semi-private training"
+    
+    },
+    "Info": {
+        "1": "Welcome to this new class. It is a total of 15 hours and cost 100$.",
+        "2": "Please enter your inforamtion to register to the class.",
+        "3": "Register",
+        "4": "Username",
+        "5": "Email",
+        "6": "Password",
+        "7": "Submit"
+    
+    },
+    "Progress": {
+        "1": "Search course",
+        "2": "Register",
+        "3": "Success"
+        
+    
+    },
+
+
+ "Chat": {
+        "1": "CHAT ROOM"
+    },
+    "FAQ": {
+        "1": "Frequently Asked Questions",
+        "2": "Do you enconter problems login in ?",
+        "3": "There are plenty ways to solve it. You can contact us on 347-45666-XXX",
+        "4": "I cannot book a gym session",
+        "5": "If you have problems booking a session, you can refresh your page, then try again",
+        "6": " Email your question"
+
+    }
+    
+
+
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Mdial043.github.iofinal-future-stars/static/css/main.f58470a7.css",
+    "main.js": "/Mdial043.github.iofinal-future-stars/static/js/main.c21de77e.js",
+    "static/media/background1.png": "/Mdial043.github.iofinal-future-stars/static/media/background1.b109978f0a13673e3cc3.png",
+    "static/media/profil1.png": "/Mdial043.github.iofinal-future-stars/static/media/profil1.7e1dc66c8765c512e546.png",
+    "static/media/private.png": "/Mdial043.github.iofinal-future-stars/static/media/private.62a96e7b470015847058.png",
+    "static/media/basket.png": "/Mdial043.github.iofinal-future-stars/static/media/basket.c652df25db879d1eb8cd.png",
+    "static/media/weekly.png": "/Mdial043.github.iofinal-future-stars/static/media/weekly.d6062812458303dbafe2.png",
+    "static/media/day-camp.png": "/Mdial043.github.iofinal-future-stars/static/media/day-camp.ac5c0c1aed469d51fe89.png",
+    "static/media/profil2.png": "/Mdial043.github.iofinal-future-stars/static/media/profil2.f06147203c732ec4f182.png",
+    "static/media/strength.png": "/Mdial043.github.iofinal-future-stars/static/media/strength.4c2f084af3b6725b4908.png",
+    "static/media/d-league.png": "/Mdial043.github.iofinal-future-stars/static/media/d-league.5b598e2982a0a44a4e22.png",
+    "static/media/semi-private.png": "/Mdial043.github.iofinal-future-stars/static/media/semi-private.e38bda463519932be286.png",
+    "static/media/overnight-camp.png": "/Mdial043.github.iofinal-future-stars/static/media/overnight-camp.4b01b6b5b2b4fdd9600a.png",
+    "static/media/bc3.png": "/Mdial043.github.iofinal-future-stars/static/media/bc3.02c5ff5bea12deb36df1.png",
+    "static/media/bc2.png": "/Mdial043.github.iofinal-future-stars/static/media/bc2.c32e3906e136c5986984.png",
+    "index.html": "/Mdial043.github.iofinal-future-stars/index.html",
+    "main.f58470a7.css.map": "/Mdial043.github.iofinal-future-stars/static/css/main.f58470a7.css.map",
+    "main.c21de77e.js.map": "/Mdial043.github.iofinal-future-stars/static/js/main.c21de77e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58470a7.css",
+    "static/js/main.c21de77e.js"
+  ]
+}
