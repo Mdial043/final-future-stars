@@ -1,0 +1,59 @@
+{
+    "Home": {
+        "1": "Accueil",
+        "2":"CHEZ FUTURE STARS, NOUS SOMMES UNE FAMILLE, AVEC LES ANNÉES D’EXPÉRIENCE QUE NOUS AVONS, NOUS TRAVAILLONS LE MEILLEUR AFIN DE FAIRE LE MEILLEUR",
+        "3": "NOTRE JEU <br / > LE BASKET-BALL APPORTE DE LA JOIE, NOUS SOMMES LÀ POUR PEAUFINER LE TALENT QUE VOUS AVEZ DÉJÀ, CONSULTEZ NOS CLASSNAMEES POUR TROUVER LEQUEL DE NOS PROGRAMMES VOUS CONVIENT LE MIEUX <br / >",
+        "4": "VOUS POUVEZ RÉSERVER UNE SÉANCE DE GYM ET VOUS AMUSER AVEC VOS COÉQUIPIERS ET AMIS DU CLUB À TOUT MOMENT",
+        "5": "Une question ? Il y a une FAQ disponible",
+        "6" : "S'ENREGISTRER",
+        "7" : "RÉSERVER UNE SESSION DE GYM",
+        "8": "FAQ"
+    },
+     "BOOK": {
+        "1": "Réserver une session de gym",
+        "2": "Selectionner la  localisation",
+        "3": "Disponibilités pour le rendez-vous",
+        "4": "Nom",
+        "5": "Adresse Email",
+        "6": "Réserver"
+    },
+    "Register": {
+        "1": "S'enregistrer au camp",
+        "2": "Camp de jour",
+        "3": " Camp de nuit",
+        "4": " Lessons hebdomadaire",
+        "5": "Session privée",
+        "6": "Activité physique",
+        "7": "D-league",
+        "8": "Entrainement en équipe",
+        "9": "Entrainement semi-privé"
+    },
+    "Info": {
+        "1": "Bienvenu dans ce nouveau cours. Il coûtera 100$.",
+        "2": "Veuillez entrer vos informations",
+        "3": "S'enregistrer",
+        "4": "Nom d'utlisateur",
+        "5": "Adresse Email",
+        "6": "Mot de Passe",
+        "7": "Soumettre"},
+        "Progress": {
+            "1": "Recherche ",
+            "2": "Enregistrement",
+            "3": "Succès"
+            
+        
+        },
+ "Chat": {
+        "1": "Messages"
+    },
+    "FAQ": {
+        "1": " Questions frequemment demandées",
+        "2": "Avez vous rencontrer un problème avec l'enregistrement à un cours?",
+        "3": "Il y a plein de façon de le résoudre. Vous pouvez nous contacter au 347-45666-XXX",
+        "4": "Je n'arrive pas à réserver une session à la salle de gym",
+        "5": "Si vous avez des problèmes pour réserver une session, vous pouvez actualiser votre page, puis réessayer",
+        "6": " Envoyer nous vos questions par mail"
+
+    }
+
+}
