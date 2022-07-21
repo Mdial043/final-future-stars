@@ -361,9 +361,9 @@ height: 550px;
   }
 .registertext{ border-style: solid; margin-top:150px ; background-color: rgb(226, 221, 221);  }
 
-.bts{ color: black;  background-color: orange; font-weight: bold;}
-.bts2{ color: black;  background-color: rgb(31, 160, 192); font-weight: bold;}
-.bts3{ color: white;  background-color: rgb(133, 110, 125); font-weight: bold; }
+.bts{ color: black;  background-color: rgb(147, 156, 168); font-weight: bold;}
+.bts2{ color: black;  background-color: rgb(147, 156, 168); font-weight: bold;}
+.bts3{ color: white;  background-color: rgb(147, 156, 168); font-weight: bold;}
 .last{margin-bottom: 10px;}
 .icon{color: white;}
 .contenu{margin-top: 10%;}

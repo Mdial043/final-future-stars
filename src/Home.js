@@ -28,7 +28,7 @@ const Home = () => {
         </section><section className="sect">
 
                 <div className="container global col-12 ">
-                    <div className="container registertext  col-5  "> <span>{t('Home.3')}</span>   <button className="mt-2 mb-3 bts"> <Link to={"/Register"} className="lien">   <span>{t('Home.6')}</span> </Link></button></div>
+                    <div className="container registertext  col-5  "> <span>{t('Home.3')}</span> <br />   <button className="mt-2 mb-3 bts"> <Link to={"/Register"} className="lien">   <span>{t('Home.6')}</span> </Link></button></div>
                 </div>
 
 
